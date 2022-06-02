@@ -1,10 +1,6 @@
 #include<stdio.h>
 
-/**
- * main - Entry point
- * print out a statment
- * return: Always 0 (success)
- */
+/* main - Prints a simple statments */
 int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,\n");
